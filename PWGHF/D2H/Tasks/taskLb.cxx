@@ -293,7 +293,7 @@ struct HfTaskLb {
       }
     } // candidate loop
   }   // process
-};   // struct
+};    // struct
 
 /// Lb MC analysis and fill histograms
 struct HfTaskLbMc {
@@ -455,7 +455,7 @@ struct HfTaskLbMc {
       }
     } // gen
   }   // process
-};   // struct
+};    // struct
 
 WorkflowSpec defineDataProcessing(ConfigContext const& cfgc)
 {
