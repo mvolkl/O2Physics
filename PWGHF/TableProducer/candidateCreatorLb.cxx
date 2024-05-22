@@ -36,7 +36,6 @@ using namespace o2::framework;
 using namespace o2::framework::expressions;
 using namespace o2::hf_trkcandsel;
 
-
 #include "Framework/runDataProcessing.h"
 
 /// Reconstruction of Λb candidates
